@@ -4,7 +4,7 @@
 
 Olá!
 
-Bem vindo ao meu livro de receitas!
+Bem vindo ao meu livro de receitas e primeiro repositório no GitHub!
 
 - Strogonoff de frango
 
